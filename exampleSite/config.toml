@@ -86,11 +86,11 @@ author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "..."
+#mobile = "..."
 email = "lesfrerotsavelo@gmail.com"
 location = "Marseille, France"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+#copyright = "Les frérots à vélo | copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
 # Preloader
 [params.preloader]
