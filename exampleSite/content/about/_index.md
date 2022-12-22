@@ -1,6 +1,6 @@
 ---
-title: "About Me"
-date: 2019-10-29T13:49:23+06:00
+title: "A propos"
+date: 2022-12-22T13:49:23+01:00
 draft: false
 
 # image
@@ -13,8 +13,9 @@ description: "this is meta description"
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+Les frérots à vélo sont trois frères: Nathan, Nicolas et Benjamin passionés d'aventure à vélo.
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+Nico fait les photos, Ben ecrit le journal de bord et Nathan...critique.
 
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+Les frérots sont originaires de Châteauroux dans le centre de la France et sont partis de
+Châteauneuf-les-Martigues dans les Bouches du Rhône direction plein est le premier janvier 2023.
