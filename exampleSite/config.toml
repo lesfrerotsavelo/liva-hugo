@@ -38,6 +38,8 @@ URL = "plugins/search/fuse.min.js"
 URL = "plugins/search/mark.js"
 [[params.plugins.js]]
 URL = "plugins/search/search.js"
+[[params.plugins.js]]
+URL = "plugins/font-awesome/all.min.js"
 
 
 ############################## navigation ###############################
