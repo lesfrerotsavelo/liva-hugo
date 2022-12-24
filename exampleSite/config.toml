@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
+baseURL = "https://lesfrerotsavelo.com/"
 languageCode = "fr-fr"
 title = "Les frérots à vélo"
 theme = "liva-hugo"
@@ -50,7 +50,7 @@ URL = "about/"
 weight = 1
 
 [[menu.main]]
-name = "Blog"
+name = "Journal de bord"
 URL = "blog/"
 weight = 2
 
@@ -66,7 +66,7 @@ URL = "about/"
 weight = 1
 
 [[menu.footer]]
-name = "Blog"
+name = "Journal de bord"
 URL = "blog/"
 weight = 2
 
@@ -82,7 +82,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Les frérots à vélo"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -90,7 +90,7 @@ googleAnalitycsID = "Your ID"
 email = "lesfrerotsavelo@gmail.com"
 location = "Marseille, France"
 # copyright
-#copyright = "Les frérots à vélo | copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "copyright &copy; 2022 Les frérots à vélo | copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
 # Preloader
 [params.preloader]
