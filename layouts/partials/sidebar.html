@@ -9,12 +9,12 @@
         class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4">
       {{ end }}
       <p>{{ .Summary }}</p>
-      <a href="{{ .Permalink }}" class="btn btn-outline-primary">Know More</a>
+      <a href="{{ .Permalink }}" class="btn btn-outline-primary">En savoir plus</a>
       {{ end }}
     </div>
     <!-- category -->
     <div class="widget">
-      <h4 class="widget-title">Category</h4>
+      <h4 class="widget-title">Categorie</h4>
       {{- if isset .Site.Taxonomies "categories" }}
       {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
       <ul class="list-unstyled">

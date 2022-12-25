@@ -18,4 +18,4 @@ Les frérots à vélo sont trois frères: Nathan, Nicolas et Benjamin passionés
 Nico fait les photos, Ben ecrit le journal de bord et Nathan...critique.
 
 Les frérots sont originaires de Châteauroux dans le centre de la France et sont partis de
-Châteauneuf-les-Martigues dans les Bouches du Rhône direction plein est le premier janvier 2023.
+Châteauneuf-les-Martigues dans les Bouches du Rhône direction plein Est le premier janvier 2023.
