@@ -1,13 +1,13 @@
 ---
-title: "Get In Touch"
-date: 2019-10-29T13:49:23+06:00
+title: "Contact"
+date: 2022-12-15T13:49:23+01:00
 draft: false
 
 # meta description
-description: "this is meta description"
+description: "contact"
 
 # type
 type : "contact"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+Vous pouvez joindre les frérots à vélo par mail ou sur Instagram.
