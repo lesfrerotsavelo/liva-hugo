@@ -123,6 +123,11 @@ icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://instagram.com/lesfrerotsavelo"
 
 [[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/@lesfrerotsavelo"
+
+[[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/lesfrerotsavelo/"
