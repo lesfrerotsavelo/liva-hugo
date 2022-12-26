@@ -100,9 +100,9 @@ googleAnalitycsID = "Your ID"
 # Contact Information
 #mobile = "..."
 email = "lesfrerotsavelo@gmail.com"
-location = "Marseille, France"
+#location = "Marseille, France"
 # copyright
-copyright = "copyright &copy; 2022 Les frérots à vélo | copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "copyright &copy; 2022 Les frérots à vélo | copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved"
 
 # Preloader
 [params.preloader]
