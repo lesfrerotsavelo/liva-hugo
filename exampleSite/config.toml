@@ -5,7 +5,7 @@ title = "Les frérots à vélo"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "lesfrerotsavelo"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
