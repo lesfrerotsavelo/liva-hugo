@@ -129,15 +129,20 @@ expire_days = 2
 ############################# social site ########################
 [[params.social]]
 title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+icon = "fa-brands fa-instagram"
 link = "https://instagram.com/lesfrerotsavelo"
 
 [[params.social]]
 title = "youtube"
-icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+icon = "fa-brands fa-youtube"
 link = "https://www.youtube.com/@lesfrerotsavelo"
 
 [[params.social]]
+title = "strava"
+icon = "fa-brands fa-strava"
+link = "https://www.strava.com/athletes/112000181"
+
+[[params.social]]
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
+icon = "fa-brands fa-github"
 link = "https://github.com/lesfrerotsavelo/"
