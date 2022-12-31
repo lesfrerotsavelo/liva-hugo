@@ -95,8 +95,8 @@ home = "Home"
 # Meta data
 description = "This is meta description"
 author = "Les frérots à vélo"
-# Google Analitycs
-googleAnalitycsID = "G-8WNVSZRHF7"
+# Google Analytics
+googleAnalyticsID = "G-8WNVSZRHF7"
 # Contact Information
 #mobile = "..."
 email = "lesfrerotsavelo@gmail.com"
