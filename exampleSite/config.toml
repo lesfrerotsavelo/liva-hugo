@@ -141,8 +141,3 @@ link = "https://www.youtube.com/@lesfrerotsavelo"
 title = "strava"
 icon = "fa-brands fa-strava"
 link = "https://www.strava.com/athletes/112000181"
-
-[[params.social]]
-title = "github"
-icon = "fa-brands fa-github"
-link = "https://github.com/lesfrerotsavelo/"
