@@ -10,12 +10,12 @@ image: "images/author.png"
 description: "this is meta description"
 
 # type
-type : "about"
+type: "about"
 ---
 
 Les frérots à vélo sont trois frères: Nathan, Nicolas et Benjamin passionés d'aventure à vélo.
 
-Nico fait les photos, Ben ecrit le journal de bord et Nathan...critique.
+Nico fait les photos, Ben ecrit le journal de bord et Nathan monte les vidéos.
 
 Les frérots sont originaires de Châteauroux dans le centre de la France et sont partis de
 Châteauneuf-les-Martigues dans les Bouches du Rhône direction plein Est le premier janvier 2023.
