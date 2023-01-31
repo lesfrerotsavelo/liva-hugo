@@ -13,8 +13,8 @@ description: "équipement"
 type: "gear"
 ---
 
-Cette page liste tout notre équipement par catégorie avec des liens fabricants ainsi que les pays
-de fabrication quand cela est possible / connu.
+Cette page liste tout notre équipement par catégorie avec des liens fabricants, les pays
+de fabrication quand cela est possible / connu ainsi que notre avis quand il est pertinent.
 
 ### Vélo
 
@@ -51,5 +51,22 @@ et quelques modifications:
 - remplacement des chambres à air par des Continental Tour 🇹🇭 remplies d'anti-crevaison
 
 ### Bagageries
+
+- sac de fourche [Ortlieb 5.8L](https://www.ortlieb.com/fr_fr/fork-pack-plus-2022) 🇩🇪
+
+{{< rawhtml >}}
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+{{< /rawhtml >}}
+
+- sac de selle
+  - [Ortlieb 16.5L (Benjamin)](https://www.ortlieb.com/fr_fr/seat-pack) 🇩🇪
+  - [Apidura expedition 14L et 17L](https://www.apidura.com/shop/expedition-saddle-pack/)
+
+
+### Vêtements
 
 A venir...
