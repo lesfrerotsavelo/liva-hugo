@@ -10,4 +10,3 @@ for file in *.PNG; do
     echo $file
     mv -- "$file" "${file%.PNG}.png"
 done
-
