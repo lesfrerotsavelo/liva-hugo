@@ -10,9 +10,12 @@
   <script>
 ;(function () {
     var src = '//cdn.jsdelivr.net/npm/eruda';
+    var timing = '//cdn.jsdelivr.net/npm/eruda-timing';
     if (!/eruda=true/.test(window.location) && localStorage.getItem('active-eruda') != 'true') return;
     document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
     document.write('<scr' + 'ipt>eruda.init();</scr' + 'ipt>');
+    document.write('<scr' + 'ipt src="' + timing + '"></scr' + 'ipt>');
+    document.write('<scr' + 'ipt>eruda.add(erudaTiming);</scr' + 'ipt>');
 })();
   </script>
     
