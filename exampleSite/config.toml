@@ -10,6 +10,13 @@ disqusShortname = "lesfrerotsavelo"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'Box'
+
 ############################# Plugins ##############################
 [params.plugins]
 
